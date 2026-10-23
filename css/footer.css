@@ -1,0 +1,22 @@
+.footer {
+  background-color: var(--navy-blue);
+}
+
+.footer-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--cloud);
+
+  text-decoration: none;
+}
+
+.footer-logo .footer-logo-span {
+  color: var(--iris);
+}
+
+.footer-text {
+  color: var(--cloud);
+}
