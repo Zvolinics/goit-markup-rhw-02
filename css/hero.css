@@ -9,4 +9,5 @@
   height: 56px;
   max-width: 169px;
   background: var(--iris);
+  cursor: pointer;
 }
